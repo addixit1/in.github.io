@@ -82,9 +82,9 @@ input {
     padding-left: 10px;
     margin-bottom: 20px;
     background: white;
-    font-family: Montserrat;
+/*     font-family: Montserrat; */
     font-weight: 500;
-    color: #fff;
+    color: black;
     font-size: 12px;
     border-bottom: 2px solid transparent;
     border-top-left-radius: 2%;
